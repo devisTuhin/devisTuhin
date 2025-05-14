@@ -80,16 +80,16 @@
 
 
 
-## Github Stats  
+## Github Stats 
   
   
-![istuhin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=istuhin&theme=highcontrast&hide_border=false)
+![istuhin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=highcontrast&hide_border=false)
 
 
-![istuhin's Stats](https://github-readme-stats.vercel.app/api?username=istuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![istuhin's Stats](https://github-readme-stats.vercel.app/api?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
 
-![istuhin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=istuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![istuhin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 
 
