@@ -150,8 +150,14 @@
 
 <br/>  
 
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istuhin&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7F50" width="100%"/>
+
+<a href="https://github.com/istuhin">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istuhin&theme=github-compact&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&custom_title=💚%20My%20GitHub%20Activity%20Graph" alt="GitHub Contribution Graph" style="max-width: 100%; height: auto;" />
+</a>
+
 </div>
 
 ---
