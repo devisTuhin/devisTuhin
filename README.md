@@ -35,14 +35,19 @@
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/istuhin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/istuhin)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.com/istuhin)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/istuhin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/istuhin)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/istuhin)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.istuhin@gmail.com)
+[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=icloud&logoColor=white)](mailto:dev.istuhin@icloud.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/istuhin21)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/istuhin21)
-[![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/istuhin)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.com/istuhin)
+
+
 
 </div>
+
 
 ---
 
