@@ -134,16 +134,17 @@
 ---
 
 
-## 🔍 Github Stats 
-  
-  
-![istuhin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=highcontrast&hide_border=false)
+## 🔍 GitHub Stats & Activity
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-![istuhin's Stats](https://github-readme-stats.vercel.app/api?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=highcontrast&hide_border=false" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
 
+  <img src="https://github-readme-stats.vercel.app/api?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
 
-![istuhin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto;" />
+
+</div>
 
 
 
