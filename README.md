@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=istuhin&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/istuhin?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </div>
 
