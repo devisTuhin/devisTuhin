@@ -3,11 +3,17 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=istuhin&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
-</div>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" align="center" style="width: 100%" />
+</div>  
 
 <br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=istuhin&&style=flat-square" align="center" />
+</div>  
+<br>
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=440&lines=Full-Stack+Software+Developer;Flutter+%26+Mobile+Expert;Web+Automation+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -15,24 +21,8 @@
 
 ---
 
-## 🚀 About Me
+## 🚬 About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```javascript
-const touhidur = {
-    pronouns: "He/Him",
-    role: "Full-Stack Developer",
-    location: "Bangladesh 🇧🇩",
-    currentFocus: "Web Automation & Flutter",
-    workingOn: "Scalable Web Applications",
-    askMeAbout: ["Flutter", "React Native", "Web Dev", "Automation"],
-    funFact: "I debug code better at 2 AM ☕",
-    lifePhilosophy: "Code, Coffee, Repeat"
-};
-```
-
-- 🛺 **Currently Learning:** Advanced Web Automation & AI Integration
 - 🎯 **Expertise:** Flutter, React Native, Full-Stack Development
 - 💡 **Passionate About:** Clean Code, Performance Optimization
 - 🦇 **Night Owl:** Peak productivity hours: 10 PM - 4 AM
@@ -40,7 +30,7 @@ const touhidur = {
 
 ---
 
-## 🌐 Let's Connect
+## 🫧  Let's Connect 
 
 <div align="center">
 
@@ -56,7 +46,7 @@ const touhidur = {
 
 ---
 
-## 💻 Tech Stack
+## ⚙️ Tech Stack 
 
 ### **Programming Languages**
 <div align="center">
@@ -119,7 +109,7 @@ const touhidur = {
 
 ---
 
-## 🛠️ Development Tools
+## 🛠️  Development Tools 
 
 <div align="center">
 
@@ -133,20 +123,21 @@ const touhidur = {
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=istuhin&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=istuhin&layout=compact&langs_count=12&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
+## 🔍 Github Stats 
+  
+  
+![istuhin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=highcontrast&hide_border=false)
 
-<br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=istuhin&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7F50&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</div>
+![istuhin's Stats](https://github-readme-stats.vercel.app/api?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
-<br>
+
+![istuhin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+
+
+
+<br/>  
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=istuhin&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7F50" width="100%"/>
@@ -154,41 +145,9 @@ const touhidur = {
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=istuhin&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=istuhin&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💡 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=istuhin&repo=flutter-projects&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/istuhin/flutter-projects)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=istuhin&repo=web-automation&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/istuhin/web-automation)
-
-</div>
-
----
-
-## 🎖️ Badges & Certifications
+## 🎖️  Badges & Certifications 
 
 <div align="center">
   <a href="https://holopin.io/@istuhin">
@@ -198,7 +157,7 @@ const touhidur = {
 
 ---
 
-## ☕ Support My Work
+## ☕  Support My Work 
 
 <div align="center">
   
@@ -210,7 +169,7 @@ const touhidur = {
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Random Dev Quote 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
