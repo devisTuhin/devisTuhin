@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>🚀 Touhidur Rahman</h1>
+  <h1> Touhidur Rahman</h1>
   <h3>Full-Stack Developer | Entrepreneur | Tech Innovator</h3>
   
   <p>
@@ -13,7 +13,7 @@
   
   <div style="margin: 20px 0;">
     <a href="https://dev-is-tuhin.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/_Portfolio_Website-Visit_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
     </a>
   </div>
   
@@ -61,19 +61,16 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istuhin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph"/>
-</div>
-
 ---
 
-## 🌐 Let's Connect & Collaborate
-
 <div align="center">
+  <h2>🌐 Let's Connect & Collaborate</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Connect Animation" />
 </div>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 💼 Professional Networks
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-is-tuhin.vercel.app/)
@@ -85,6 +82,9 @@
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.com/istuhin)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/istuhin)
 
+</td>
+<td width="50%" valign="top">
+
 ### 📧 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.istuhin@gmail.com)
 [![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:dev.istuhin@icloud.com)
@@ -93,7 +93,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/istuhin21)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/istuhin21)
 
-</div>
+</td>
+</tr>
+</table>
 
 
 ---
@@ -104,8 +106,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Animation" />
 </div>
 
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ### 💻 Programming Languages
-<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -116,11 +121,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
-
-
 ### 🎨 Frontend Frameworks & Libraries
-<div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -128,19 +129,16 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-</div>
-
 ### ⚡ Backend & Runtime
-<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
 ### 🗄️ Database & Cloud Services
-<div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -148,19 +146,13 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
-
 ### 🤖 Automation & Tools
-<div align="center">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
-</div>
-
 ### 🛠️ Development Tools & Others
-<div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
@@ -170,36 +162,49 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 
-## 📊 GitHub Analytics & Performance
-
 <div align="center">
+  <h2>📊 GitHub Analytics & Performance</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Analytics Animation" />
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=istuhin&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" alt="GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=istuhin&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" width="400" />
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=istuhin&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&card_width=300">
+    <img src="https://github-readme-stats.vercel.app/api?username=istuhin&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" alt="GitHub Stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=istuhin&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&card_width=300">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=istuhin&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" width="49%" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=istuhin&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&layout=compact&card_width=300">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istuhin&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&layout=compact" alt="Top Languages" width="50%" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-profile-trophy.vercel.app/?username=istuhin&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=2&column=3">
+    <img src="https://github-profile-trophy.vercel.app/?username=istuhin&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istuhin&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&layout=compact" alt="Top Languages" width="400" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=istuhin&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istuhin&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ---
