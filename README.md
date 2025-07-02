@@ -78,7 +78,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
-
 ### **Backend & Runtime**
 <div align="left">
 
