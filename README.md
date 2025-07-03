@@ -203,9 +203,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istuhin&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</div>
 
 ---
 
@@ -228,7 +225,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" alt="Support Animation" />
   
-  <p><strong>🚀 Enjoying my projects? Your support fuels innovation!</strong></p>
+  <p><strong>� Enjoying my projects? Your support fuels innovation!</strong></p>
   
   <a href="https://www.buymeacoffee.com/istuhin" target="_blank">
     <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
@@ -257,7 +254,7 @@
   <h3>✨ "Where Silence Meets Syntax – Welcome to My Digital Playground" ✨</h3>
   
   <p>
-    <strong>🚀 Building the future, one line of code at a time</strong><br>
+    <strong> Building the future, one line of code at a time</strong><br>
     <em>Connect with me and let's create something amazing together!</em>
   </p>
   
