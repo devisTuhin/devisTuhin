@@ -7,17 +7,17 @@
   <h3>Full-Stack Developer | Entrepreneur | Tech Innovator</h3>
   
   <p>
-    <strong>🌟 Founder & Owner of NiiHUT & HackiisLab</strong><br>
+    <strong> Founder & Owner of NiiHUT & HackiisLab</strong><br>
     <em>"Where Silence Meets Syntax – Welcome to My Silent Playground of Ideas and Code World"</em>
   </p>
   
   <div style="margin: 20px 0;">
     <a href="https://dev-is-tuhin.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/_Portfolio_Website-Visit_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/_Portfolio_Website-Visit_Now-blue?style=for-the-badge&logo=vercel&logoColor=orange" alt="Portfolio Website" />
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=istuhin&style=for-the-badge&color=00D4FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=istuhin&style=for-the-badge&color=orange" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 About Me
+## 🌪️ About Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Developer Animation" />
@@ -40,20 +40,20 @@
 <tr>
 <td width="50%">
 
-### 👨‍💻 Professional Focus
-- 🎯 **Core Expertise:** Flutter, React Native, Full-Stack Development
-- 💼 **Business:** Founder of NiiHUT & HackiisLab
-- 🌐 **Portfolio:** [dev-is-tuhin.vercel.app](https://dev-is-tuhin.vercel.app/)
-- 💡 **Passionate About:** Clean Code, Performance Optimization
+### 🚬Professional Focus
+- ☁ **Core Expertise:** Flutter, React Native, Full-Stack Development
+- ☁ **Business:** Founder of NiiHUT & HackiisLab
+- 🫆 **Portfolio:** [dev-is-tuhin.vercel.app](https://dev-is-tuhin.vercel.app/)
+- 🧹 **Passionate About:** Clean Code, Performance Optimization
 - 🔧 **Specialization:** Web Automation & Mobile Development
 
 </td>
 <td width="50%">
 
-### 🌟 Personal Traits
+### ☁ Personal Traits
 - 🦇 **Night Owl:** Peak productivity: 10 PM - 4 AM
-- 🌱 **Always Learning:** Latest tech trends and frameworks
-- 🎨 **Creative Mindset:** Turning ideas into digital reality
+- 🍑 **Always Learning:** Latest tech trends and frameworks
+- 🫧 **Creative Mindset:** Turning ideas into digital reality
 - 📚 **Knowledge Sharing:** Contributing to the dev community
 - ☕ **Fuel:** Coffee and curiosity
 
@@ -64,7 +64,7 @@
 ---
 
 <div align="center">
-  <h2>🌐 Let's Connect & Collaborate</h2>
+  <h2>🪐 Let's Connect & Collaborate</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Connect Animation" />
 </div>
 
@@ -72,8 +72,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Professional Networks
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-is-tuhin.vercel.app/)
+###  Professional Networks
+[![Portfolio](https://img.shields.io/badge/_Portfolio-Visit_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-is-tuhin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/istuhin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/istuhin)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/istuhin)
@@ -85,11 +85,11 @@
 </td>
 <td width="50%" valign="top">
 
-### 📧 Contact Me
+### 📞 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.istuhin@gmail.com)
 [![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:dev.istuhin@icloud.com)
 
-### 🎯 Social Media
+### 𝌕 Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/istuhin21)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/istuhin21)
 
@@ -110,7 +110,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Programming Languages
+###  Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -121,7 +121,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend Frameworks & Libraries
+###  Frontend Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -129,7 +129,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ⚡ Backend & Runtime
+###  Backend & Runtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -138,7 +138,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Database & Cloud Services
+###  Database & Cloud Services
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -170,7 +170,7 @@
 
 
 <div align="center">
-  <h2>📊 GitHub Analytics & Performance</h2>
+  <h2> GitHub Analytics & Performance</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Analytics Animation" />
 </div>
 
@@ -211,7 +211,7 @@
 
 
 
-## 🎖️  Badges & Certifications 
+##   Badges & Certifications 
 
 <div align="center">
   <a href="https://holopin.io/@istuhin">
