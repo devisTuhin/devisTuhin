@@ -174,35 +174,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Analytics Animation" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=istuhin&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&card_width=300">
-    <img src="https://github-readme-stats.vercel.app/api?username=istuhin&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" alt="GitHub Stats" width="49%" />
-  </picture>
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=istuhin&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&card_width=300">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=istuhin&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" width="49%" />
-  </picture>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=highcontrast&hide_border=false" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto;" />
+
 </div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=istuhin&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&layout=compact&card_width=300">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istuhin&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&layout=compact" alt="Top Languages" width="50%" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-profile-trophy.vercel.app/?username=istuhin&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=2&column=3">
-    <img src="https://github-profile-trophy.vercel.app/?username=istuhin&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-  </picture>
-</div>
-
 
 ---
 
