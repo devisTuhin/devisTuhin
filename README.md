@@ -12,7 +12,7 @@
   </p>
   
   <div style="margin: 20px 0;">
-    <a href="https://devistuhin.vercel.app/" target="_blank">
+    <a href="https://istuhin.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/_Website-Visit_Now-blue?style=for-the-badge&logo=vercel&logoColor=orange" alt="Website" />
     </a>
   </div>
