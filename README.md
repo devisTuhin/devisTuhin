@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Touhidur Rahman</h1>
-  <h3>Full-Stack Developer | Entrepreneur | Tech Innovator</h3>
+  <h3>Full Time Love-Stack Developer |</h3>
   
   <p>
     <strong> Founder & Owner of NiiHUT & HackiisLab</strong><br>
