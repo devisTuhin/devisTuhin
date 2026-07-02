@@ -1,84 +1,103 @@
 <div align="center">
 
-# Touhidur Rahman
+<img src="https://avatars.githubusercontent.com/u/109235568?v=4" width="120" style="border-radius:50%" alt="Touhidur Rahman" />
 
-**Full-Stack Developer · Founder, NiiHUT & HackiisLab**
+<h1>Touhidur Rahman</h1>
 
-Building clean, scalable software across web, mobile, and automation.
+<p><strong>Full-Stack Developer</strong> · Founder, NiiHUT & HackiisLab</p>
 
-<br/>
+<p>Building clean, scalable software across web, mobile, and automation.</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devistuhin.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/istuhin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/istuhin)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.istuhin@gmail.com)
+<p>
+<a href="https://devistuhin.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/istuhin"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://github.com/devisTuhin"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:dev.istuhin@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</p>
 
 </div>
 
 <br/>
 
-## About
+### About
 
 I design and build full-stack products end to end — mobile apps in Flutter and React Native, web platforms in React and Next.js, and automation pipelines that remove manual work. I care about clean code, performance, and shipping things that hold up in production.
 
 - 🔭 Currently building at **NiiHUT** and **HackiisLab**
 - 🌙 Most productive late at night (10 PM – 4 AM)
-- 🌱 Always picking up new tools and frameworks
 - 📫 Reach me at **dev.istuhin@gmail.com**
 
 <br/>
 
-## Tech Stack
+### Tech Stack
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Automation & Tools**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="16%"><strong>Languages</strong></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=0175C2" />
+<img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Swift-161B22?style=flat-square&logo=swift&logoColor=FA7343" />
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Frontend & Mobile</strong></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-161B22?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=02569B" />
+<img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Backend & Data</strong></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Automation & Tools</strong></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=EA4B71" />
+<img src="https://img.shields.io/badge/Selenium-161B22?style=flat-square&logo=selenium&logoColor=43B02A" />
+<img src="https://img.shields.io/badge/Puppeteer-161B22?style=flat-square&logo=puppeteer&logoColor=40B5A4" />
+<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devistuhin&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=default&hide_border=true" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=devistuhin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devistuhin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devistuhin&layout=compact&theme=default&hide_border=true" width="49%" alt="Top Languages" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
-## Support
+### Support
 
 If my work has been useful to you:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/istuhin)
+<a href="https://www.buymeacoffee.com/istuhin"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-161B22?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00" /></a>
 
+<br/>
 <br/>
 
 <div align="center">
