@@ -1,6 +1,6 @@
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=220&section=header&text=isTuhin.dev&fontSize=64&fontColor=00FF99&fontAlignY=38&desc=lovestack%20software%20developer&descSize=20&descColor=c9d1d9&descAlignY=62&descAlign=50" width="100%" alt="isTuhin.dev" />
-</picture>
+<div align="center">
+  <img src="./header.svg" alt="isTuhin.dev" width="100%" />
+</div>
 
 <br/>
 
