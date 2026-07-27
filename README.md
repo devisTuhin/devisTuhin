@@ -8,7 +8,7 @@
 $ whoami
   isTuhin.dev — lovestack software developer
 
-$ cat about.txt
+$ cat leadership.txt
   Founder & Owner of Connectis, NiiHUT & HackiisLab
 
 $
