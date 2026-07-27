@@ -34,6 +34,18 @@ Founder of **Connectis** &nbsp;·&nbsp; Open to collaboration
 
 ---
 
+### Badges & Certifications
+
+<div align="center">
+
+<a href="https://holopin.io/@istuhin" target="_blank">
+  <img src="https://holopin.me/istuhin" alt="Holopin Badges & Certifications Board" width="750" />
+</a>
+
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
