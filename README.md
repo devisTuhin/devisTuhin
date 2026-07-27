@@ -29,27 +29,19 @@ Software Engineer specializing in **Full-Stack Web**, **Cross-Platform Mobile (F
 
 <br/>
 
-#### Programming Languages & Mobile
+<img src="./cat_languages.svg" alt="Programming Languages & Mobile" width="580" />
 
-[![Languages & Mobile](https://skillicons.dev/icons?i=dart,flutter,js,ts,py,cpp,swift)](https://skillicons.dev)
+<br/><br/>
 
-<br/>
+<img src="./cat_frontend.svg" alt="Frontend Frameworks" width="580" />
 
-#### Backend, DevOps & Databases
+<br/><br/>
 
-[![Backend & DevOps](https://skillicons.dev/icons?i=docker,nodejs,express,mongodb,postgres,supabase,firebase)](https://skillicons.dev)
+<img src="./cat_backend.svg" alt="Backend, DevOps & Databases" width="580" />
 
-<br/>
+<br/><br/>
 
-#### Frontend Frameworks
-
-[![Frontend](https://skillicons.dev/icons?i=flutter,react,nextjs,vue,tailwind,html,css)](https://skillicons.dev)
-
-<br/>
-
-#### Automation, IDEs & Tools
-
-[![Tools](https://skillicons.dev/icons?i=selenium,git,vscode,postman,github)](https://skillicons.dev)
+<img src="./cat_automation.svg" alt="Automation, IDEs & Tools" width="580" />
 
 </div>
 
