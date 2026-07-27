@@ -82,7 +82,7 @@ Software Engineer specializing in **Full-Stack Web**, **Cross-Platform Mobile (F
 
 <br/>
 
-#### 🛠️ Automation, IDEs & Tools
+####  Automation, IDEs & Tools
 
 <table>
   <tr>
