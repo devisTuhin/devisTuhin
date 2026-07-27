@@ -14,13 +14,12 @@
 
 ### ⚡ About Me
 
-I am a **Full-Stack Web Developer** and **Cross-Platform App Developer (Flutter)** dedicated to crafting clean, high-performance software and intelligent automated architectures. From core product conceptualization to resilient cloud deployment, I build systems that are precise, robust, and engineered without compromise.
+Software Engineer specializing in **Full-Stack Web**, **Cross-Platform Mobile (Flutter)**, and **Workflow Automation**. Building clean, resilient systems from product conceptualization to deployment.
 
-- 🔭 **Core Expertise**: Full-Stack Web Applications, Cross-Platform Flutter Development, & Intelligent Workflow Automation.
-- 🌙 **The Nocturnal Shift**: Operating daily from **10:00 PM to 7:00 AM** in complete focus.
-- 🧬 **Expanding Frontiers**: Actively mastering **Web3 Infrastructure** and advanced **Cybersecurity**.
-- 🏍️ **The True Frequency**: Driven purely by technological mastery and the raw, exhilarating roar of **Inline-4 superbike exhausts**.
-- 💡 **Personal Creed**: Zero noise, zero emotional attachment, supreme execution.
+- 🌙 **Shift**: 10:00 PM – 7:00 AM (Nocturnal focus)
+- 🧬 **Exploring**: Web3 Infrastructure & Cybersecurity
+- 🏍️ **Passion**: Technology & Inline-4 Superbike sound
+- 💡 **Creed**: Zero noise, supreme execution
 
 ---
 
