@@ -4,15 +4,9 @@
 
 <br/>
 
-```bash
-$ whoami
-  isTuhin.dev — lovestack software developer
-
-$ cat leadership.txt
-  Founder & Owner of Connectis, NiiHUT & HackiisLab
-
-$
-```
+<div align="center">
+  <img src="./terminal.svg" alt="terminal" width="100%" />
+</div>
 
 <br/>
 
