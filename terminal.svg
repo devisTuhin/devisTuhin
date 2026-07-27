@@ -1,71 +1,41 @@
-<svg width="700" height="215" viewBox="0 0 700 215" xmlns="http://www.w3.org/2000/svg">
+<svg width="680" height="200" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Terminal card background -->
-  <rect width="700" height="215" rx="12" ry="12" fill="#0d1117" stroke="#1a3d2b" stroke-width="1.5"/>
+  <!-- Card -->
+  <rect width="680" height="200" rx="10" ry="10" fill="#0d1117" stroke="#1e3a2e" stroke-width="1"/>
 
-  <!-- Title bar background -->
-  <rect x="1" y="1" width="698" height="42" rx="11" ry="11" fill="#111827"/>
-  <!-- Fill bottom corners of title bar to be square -->
-  <rect x="1" y="28" width="698" height="15" fill="#111827"/>
+  <!-- Title bar -->
+  <rect x="1" y="1" width="678" height="40" rx="9" ry="9" fill="#111827"/>
+  <rect x="1" y="26" width="678" height="15" fill="#111827"/>
 
-  <!-- macOS traffic light dots -->
-  <circle cx="27" cy="22" r="7" fill="#ff5f57"/>
-  <circle cx="52" cy="22" r="7" fill="#febc2e"/>
-  <circle cx="77" cy="22" r="7" fill="#28c840"/>
+  <!-- Traffic lights -->
+  <circle cx="24" cy="21" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="21" r="6" fill="#febc2e"/>
+  <circle cx="68" cy="21" r="6" fill="#28c840"/>
 
-  <!-- Title bar divider -->
-  <line x1="1" y1="43" x2="699" y2="43" stroke="#1a3d2b" stroke-width="1"/>
+  <!-- Divider -->
+  <line x1="1" y1="41" x2="679" y2="41" stroke="#1e3a2e" stroke-width="1"/>
 
-  <!-- === $ whoami === -->
-  <text x="22" y="72"
-        font-family="'Courier New', Courier, monospace"
-        font-size="15"
-        fill="#00ff88">$</text>
-  <text x="40" y="72"
-        font-family="'Courier New', Courier, monospace"
-        font-size="15"
-        fill="#e6edf3"> whoami</text>
+  <!-- $ whoami -->
+  <text x="20" y="68" font-family="'Courier New', Courier, monospace" font-size="14" fill="#00ff88">$</text>
+  <text x="36" y="68" font-family="'Courier New', Courier, monospace" font-size="14" fill="#e6edf3"> whoami</text>
 
-  <!-- Output indent line -->
-  <rect x="22" y="78" width="2" height="20" fill="#1e3a2e"/>
+  <rect x="20" y="74" width="2" height="18" fill="#1e3a2e"/>
+  <text x="36" y="88" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#7d8590">isTuhin.dev — lovestack software developer</text>
 
-  <!-- Output text -->
-  <text x="40" y="94"
-        font-family="'Courier New', Courier, monospace"
-        font-size="13.5"
-        fill="#7d8590">isTuhin.dev (lovestack software developer)</text>
+  <!-- $ cat about.txt -->
+  <text x="20" y="118" font-family="'Courier New', Courier, monospace" font-size="14" fill="#00ff88">$</text>
+  <text x="36" y="118" font-family="'Courier New', Courier, monospace" font-size="14" fill="#e6edf3"> cat about.txt</text>
 
-  <!-- === $ cat leadership.txt === -->
-  <text x="22" y="128"
-        font-family="'Courier New', Courier, monospace"
-        font-size="15"
-        fill="#00ff88">$</text>
-  <text x="40" y="128"
-        font-family="'Courier New', Courier, monospace"
-        font-size="15"
-        fill="#e6edf3"> cat leadership.txt</text>
+  <rect x="20" y="124" width="2" height="38" fill="#1e3a2e"/>
+  <text x="36" y="140" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#7d8590">Full-Stack · Flutter · Web Automation · Founder</text>
 
-  <!-- Output indent line -->
-  <rect x="22" y="134" width="2" height="40" fill="#1e3a2e"/>
+  <!-- Connectis. with cursor -->
+  <text x="36" y="157" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#7d8590">Open to collaboration · Based in Bangladesh</text>
 
-  <!-- Output text: "Founder & Owner of " then "Connectis." -->
-  <!-- font-size 14, Courier New: ~8.4px/char -->
-  <!-- "Founder & Owner of " = 19 chars = ~160px  →  starts x=40, ends x=200 -->
-  <text x="40" y="162"
-        font-family="'Courier New', Courier, monospace"
-        font-size="14"
-        fill="#7d8590">Founder &amp; Owner of </text>
-
-  <!-- "Connectis." in green (10 chars = ~84px, ends at x=284) -->
-  <text x="200" y="162"
-        font-family="'Courier New', Courier, monospace"
-        font-size="14"
-        fill="#00ff88"
-        text-decoration="underline">Connectis.</text>
-
-  <!-- Blinking block cursor after "Connectis." -->
-  <rect x="284" y="148" width="9" height="16" fill="#00ff88">
-    <animate attributeName="opacity" values="1;1;0;0;1;1" dur="1.2s" repeatCount="indefinite"/>
+  <!-- Prompt with blinking cursor -->
+  <text x="20" y="182" font-family="'Courier New', Courier, monospace" font-size="14" fill="#00ff88">$</text>
+  <rect x="36" y="169" width="9" height="15" fill="#00ff88">
+    <animate attributeName="opacity" values="1;1;0;0;1;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 
 </svg>
