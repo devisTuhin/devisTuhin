@@ -16,12 +16,6 @@
 
 I am a **Full-Stack Web Developer** and **Cross-Platform App Developer (Flutter)** dedicated to crafting clean, high-performance software and intelligent automated architectures. From core product conceptualization to resilient cloud deployment, I build systems that are precise, robust, and engineered without compromise.
 
-> *"I chose discipline, silence, and unclouded focus over the noise of the world."*
-
-I have intentionally stepped back from conventional societal attachments—I do not seek superficial affection, worldliness, or traditional comforts. Instead, I find absolute clarity in solitude. My life's devotion is channeled entirely into the elegance of **pure technology**, seamless architectural precision, and the visceral, soul-stirring mechanical symphony of an **Inline-4 Engine** at maximum RPM.
-
-When the world falls silent and retreats to sleep, my deep engineering begins. Operating entirely in the silence of the night from **10:00 PM to 7:00 AM**, I exist in a realm of pure nocturnal focus where complex architectures and advanced problem-solving unfold without friction.
-
 - 🔭 **Core Expertise**: Full-Stack Web Applications, Cross-Platform Flutter Development, & Intelligent Workflow Automation.
 - 🌙 **The Nocturnal Shift**: Operating daily from **10:00 PM to 7:00 AM** in complete focus.
 - 🧬 **Expanding Frontiers**: Actively mastering **Web3 Infrastructure** and advanced **Cybersecurity**.
