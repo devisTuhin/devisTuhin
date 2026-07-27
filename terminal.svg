@@ -1,15 +1,15 @@
-<svg width="100%" viewBox="0 0 550 205" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 430 205" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Card background -->
-  <rect width="550" height="205" rx="12" ry="12" fill="#0d1117"/>
+  <rect width="430" height="205" rx="12" ry="12" fill="#0d1117"/>
 
   <!-- Border (neon-green tint) -->
-  <rect x="0.5" y="0.5" width="549" height="204" rx="11.5" ry="11.5"
+  <rect x="0.5" y="0.5" width="429" height="204" rx="11.5" ry="11.5"
         fill="none" stroke="#1e3a2e" stroke-width="1"/>
 
   <!-- Title bar -->
-  <rect x="0" y="0" width="550" height="40" rx="12" ry="12" fill="#111827"/>
-  <rect x="0" y="26" width="550" height="14" fill="#111827"/>
+  <rect x="0" y="0" width="430" height="40" rx="12" ry="12" fill="#111827"/>
+  <rect x="0" y="26" width="430" height="14" fill="#111827"/>
 
   <!-- Traffic lights -->
   <circle cx="24" cy="21" r="6" fill="#ff5f57"/>
@@ -17,7 +17,7 @@
   <circle cx="68" cy="21" r="6" fill="#28c840"/>
 
   <!-- Separator line -->
-  <line x1="0" y1="40" x2="550" y2="40" stroke="#1e3a2e" stroke-width="1"/>
+  <line x1="0" y1="40" x2="430" y2="40" stroke="#1e3a2e" stroke-width="1"/>
 
   <!-- $ whoami -->
   <text x="20" y="68" font-family="'Courier New',Courier,monospace" font-size="14" fill="#00FF99">$</text>
