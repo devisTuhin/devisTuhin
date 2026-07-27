@@ -23,9 +23,9 @@ Software Engineer specializing in **Full-Stack Web**, **Cross-Platform Mobile (F
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+###  Tech Stack & Ecosystem
 
-#### 💻 Programming Languages & Mobile
+####  Programming Languages & Mobile
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ Software Engineer specializing in **Full-Stack Web**, **Cross-Platform Mobile (F
 
 <br/>
 
-#### 🎨 Frontend Frameworks
+####  Frontend Frameworks
 
 <table>
   <tr>
@@ -63,7 +63,7 @@ Software Engineer specializing in **Full-Stack Web**, **Cross-Platform Mobile (F
 
 <br/>
 
-#### ⚡ Backend, DevOps & Databases
+####  Backend, DevOps & Databases
 
 <table>
   <tr>
