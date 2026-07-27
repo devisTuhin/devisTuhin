@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./header.svg" alt="isTuhin.dev" width="100%" />
+  <img src="./header.svg" alt="isTuhin.dev" width="520" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./terminal.svg" alt="terminal" width="100%" />
+  <img src="./terminal.svg" alt="terminal" width="460" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
@@ -117,16 +117,16 @@ Software Engineer specializing in **Full-Stack Web**, **Cross-Platform Mobile (F
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devisTuhin&show_icons=true&theme=dark&hide_border=true&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="100%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devisTuhin&show_icons=true&theme=dark&hide_border=true&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="495" style="max-width: 100%; height: auto;" />
     <br/><br/>
-    <img src="https://streak-stats.demolab.com/?user=devisTuhin&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=0d1117&stroke=1e3a2e" alt="GitHub Streak" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=devisTuhin&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=0d1117&stroke=1e3a2e" alt="GitHub Streak" width="495" style="max-width: 100%; height: auto;" />
   </p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devisTuhin&theme=dark&hide_border=true&title_color=00ff88&bg_color=0d1117&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devisTuhin&theme=dark&hide_border=true&title_color=00ff88&bg_color=0d1117&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" width="495" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
