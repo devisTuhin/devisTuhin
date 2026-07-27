@@ -1,0 +1,59 @@
+<svg width="100%" viewBox="0 0 400 68" xmlns="http://www.w3.org/2000/svg">
+  <!-- Row 1 -->
+  <!-- Flutter -->
+  <g transform="translate(0, 0)">
+    <rect width="86" height="28" fill="#02569B" rx="3"/>
+    <path fill="#ffffff" d="M14 3L5 12l3 3 9-9zM8 12l-3 3 6 6 3-3z"/>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Flutter</text>
+  </g>
+
+  <!-- React Native -->
+  <g transform="translate(94, 0)">
+    <rect width="120" height="28" fill="#20232A" stroke="#61DAFB" stroke-width="1" rx="3"/>
+    <circle cx="16" cy="14" r="2" fill="#61DAFB"/>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#61DAFB">React Native</text>
+  </g>
+
+  <!-- React -->
+  <g transform="translate(222, 0)">
+    <rect width="80" height="28" fill="#20232A" stroke="#61DAFB" stroke-width="1" rx="3"/>
+    <circle cx="16" cy="14" r="2" fill="#61DAFB"/>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#61DAFB">React</text>
+  </g>
+
+  <!-- Next.js -->
+  <g transform="translate(310, 0)">
+    <rect width="88" height="28" fill="#000000" stroke="#444444" stroke-width="0.8" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">N</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Next.js</text>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- Vue.js -->
+  <g transform="translate(0, 36)">
+    <rect width="84" height="28" fill="#4FC08D" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">V</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Vue.js</text>
+  </g>
+
+  <!-- Tailwind CSS -->
+  <g transform="translate(92, 36)">
+    <rect width="122" height="28" fill="#06B6D4" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">≈</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Tailwind CSS</text>
+  </g>
+
+  <!-- HTML5 -->
+  <g transform="translate(222, 36)">
+    <rect width="84" height="28" fill="#E34F26" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">5</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">HTML5</text>
+  </g>
+
+  <!-- CSS3 -->
+  <g transform="translate(314, 36)">
+    <rect width="74" height="28" fill="#1572B6" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">3</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">CSS3</text>
+  </g>
+</svg>

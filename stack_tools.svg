@@ -1,0 +1,45 @@
+<svg width="100%" viewBox="0 0 350 68" xmlns="http://www.w3.org/2000/svg">
+  <!-- Row 1 -->
+  <!-- Selenium -->
+  <g transform="translate(0, 0)">
+    <rect width="94" height="28" fill="#43B02A" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">Se</text>
+    <text x="30" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Selenium</text>
+  </g>
+
+  <!-- Puppeteer -->
+  <g transform="translate(102, 0)">
+    <rect width="98" height="28" fill="#40B5A4" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">🎪</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Puppeteer</text>
+  </g>
+
+  <!-- n8n -->
+  <g transform="translate(208, 0)">
+    <rect width="68" height="28" fill="#EA4B71" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">∞</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">n8n</text>
+  </g>
+
+  <!-- Git -->
+  <g transform="translate(284, 0)">
+    <rect width="66" height="28" fill="#F05032" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">⎇</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Git</text>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- VS Code -->
+  <g transform="translate(0, 36)">
+    <rect width="92" height="28" fill="#007ACC" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">💻</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">VS Code</text>
+  </g>
+
+  <!-- Postman -->
+  <g transform="translate(100, 36)">
+    <rect width="92" height="28" fill="#FF6C37" rx="3"/>
+    <text x="12" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">🚀</text>
+    <text x="28" y="19" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Postman</text>
+  </g>
+</svg>
