@@ -27,10 +27,8 @@
   <text x="36" y="118" font-family="'Courier New', Courier, monospace" font-size="14" fill="#e6edf3"> cat about.txt</text>
 
   <rect x="20" y="124" width="2" height="38" fill="#1e3a2e"/>
-  <text x="36" y="140" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#7d8590">Full-Stack · Flutter · Web Automation · Founder</text>
-
-  <!-- Connectis. with cursor -->
-  <text x="36" y="157" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#7d8590">Open to collaboration · Based in Bangladesh</text>
+  <text x="36" y="140" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#7d8590">Founder &amp; Owner of Connectis, NiiHUT &amp; HackiisLab</text>
+  <text x="36" y="157" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#7d8590">Full-Stack · Flutter · Web Automation</text>
 
   <!-- Prompt with blinking cursor -->
   <text x="20" y="182" font-family="'Courier New', Courier, monospace" font-size="14" fill="#00ff88">$</text>
