@@ -34,16 +34,6 @@ Founder of **Connectis** &nbsp;·&nbsp; Open to collaboration
 
 ---
 
-### Featured Projects
-
-<div align="center">
-
-[![dev.isTuhin](https://github-readme-stats.vercel.app/api/pin/?username=devisTuhin&repo=dev.isTuhin&theme=dark&hide_border=true&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&text_color=c9d1d9)](https://github.com/devisTuhin/dev.isTuhin)
-
-</div>
-
----
-
 ### GitHub Stats
 
 <div align="center">
