@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./header.svg" alt="isTuhin.dev" width="100%" />
+  <img src="./header.svg" alt="isTuhin.dev" width="580" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./terminal.svg" alt="terminal" width="100%" />
+  <img src="./terminal.svg" alt="terminal" width="480" />
 </div>
 
 <br/>
