@@ -1,0 +1,62 @@
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Dark background -->
+  <rect width="800" height="300" fill="#0d1117"/>
+
+  <!-- Scattered green glow dots -->
+  <circle cx="648" cy="22" r="2.2" fill="#00ff88" opacity="0.55"/>
+  <circle cx="718" cy="58" r="1.5" fill="#00ff88" opacity="0.38"/>
+  <circle cx="782" cy="38" r="2.5" fill="#00ff88" opacity="0.32"/>
+  <circle cx="763" cy="148" r="1.8" fill="#00ff88" opacity="0.28"/>
+  <circle cx="793" cy="210" r="2" fill="#00ff88" opacity="0.45"/>
+  <circle cx="756" cy="268" r="1.5" fill="#00ff88" opacity="0.32"/>
+  <circle cx="676" cy="285" r="2.2" fill="#00ff88" opacity="0.38"/>
+  <circle cx="582" cy="14" r="1.5" fill="#00ff88" opacity="0.28"/>
+  <circle cx="498" cy="292" r="2" fill="#00ff88" opacity="0.38"/>
+  <circle cx="422" cy="10" r="1.5" fill="#00ff88" opacity="0.22"/>
+  <circle cx="352" cy="288" r="2" fill="#00ff88" opacity="0.28"/>
+  <circle cx="288" cy="8"  r="2" fill="#00ff88" opacity="0.32"/>
+  <circle cx="710" cy="188" r="1.2" fill="#00ff88" opacity="0.48"/>
+  <circle cx="12" cy="188" r="1.5" fill="#00ff88" opacity="0.32"/>
+  <circle cx="7"  cy="245" r="2" fill="#00ff88" opacity="0.28"/>
+  <circle cx="10" cy="75"  r="1.5" fill="#00ff88" opacity="0.38"/>
+  <circle cx="180" cy="6"  r="1.8" fill="#00ff88" opacity="0.25"/>
+  <circle cx="540" cy="295" r="1.5" fill="#00ff88" opacity="0.35"/>
+  <circle cx="20" cy="120" r="1.2" fill="#00ff88" opacity="0.3"/>
+
+  <!-- <p> This is </p> -->
+  <text x="30" y="48"
+        font-family="'Courier New', Courier, monospace"
+        font-size="15"
+        fill="#00ff88">&lt;p&gt; This is &lt;/p&gt;</text>
+
+  <!-- <h1> -->
+  <text x="30" y="84"
+        font-family="'Courier New', Courier, monospace"
+        font-size="15"
+        fill="#00ff88">&lt;h1&gt;</text>
+
+  <!-- isTuhin.dev title -->
+  <text x="30" y="158" font-family="'Courier New', Courier, monospace" font-size="60" font-weight="bold">
+    <tspan fill="#00ff88">is</tspan><tspan fill="#ffffff">Tuhin</tspan><tspan fill="#00ff88">.dev</tspan>
+  </text>
+
+  <!-- Blinking block cursor -->
+  <rect x="428" y="107" width="6" height="56" fill="#00ff88">
+    <animate attributeName="opacity" values="1;1;0;0;1;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- </h1> -->
+  <text x="30" y="193"
+        font-family="'Courier New', Courier, monospace"
+        font-size="15"
+        fill="#00ff88">&lt;/h1&gt;</text>
+
+  <!-- <p> lovestack software developer </p> -->
+  <text x="30" y="240" font-family="'Courier New', Courier, monospace" font-size="19" font-weight="bold">
+    <tspan fill="#00ff88">&lt;p&gt; </tspan>
+    <tspan fill="#e6edf3">lovestack software developer </tspan>
+    <tspan fill="#00ff88">&lt;/p&gt;</tspan>
+  </text>
+
+</svg>
