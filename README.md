@@ -12,18 +12,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Developer Animation" />
 </div>
 
 <div align="center">
-  <h2>👨‍💻 Touhidur Rahman</h2>
+  <h2> Touhidur Rahman</h2>
   <h3>Full-Stack Developer | Entrepreneur | Tech Innovator</h3>
   
   <p>
-    <strong>🚀 Founder & Owner of NiiHUT & HackiisLab</strong><br>
+    <strong> Founder & Owner of NiiHUT & HackiisLab</strong><br>
     <em>"Where Silence Meets Syntax – Welcome to My Silent Playground of Ideas and Code World"</em>
   </p>
   
@@ -40,12 +40,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Professional Focus
+###  Professional Focus
 - ☁ **Core Expertise:** Flutter, React Native, Full-Stack Development
 - ☁ **Business:** Founder of NiiHUT & HackiisLab
-- 🫆 **Portfolio:** [devistuhin.vercel.app](https://devistuhin.vercel.app/)
-- 🧹 **Passionate About:** Clean Code, Performance Optimization
-- 🔧 **Specialization:** Web Automation & Mobile Development
+-  **Portfolio:** [devistuhin.vercel.app](https://devistuhin.vercel.app/)
+-  **Passionate About:** Clean Code, Performance Optimization
+-  **Specialization:** Web Automation & Mobile Development
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +63,7 @@
 
 ---
 
-## 🌐 Connect & Collaborate
+##  Connect & Collaborate
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Connect Animation" />
@@ -71,13 +71,13 @@
 
 <div align="center">
 
-### 📱 Professional Networks
+###  Professional Networks
 [![Portfolio](https://img.shields.io/badge/_Portfolio-Visit_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://devistuhin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/istuhin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/istuhin)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/istuhin)
 
-### 💻 Development Platforms
+###  Development Platforms
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.com/istuhin)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/istuhin)
 
@@ -85,7 +85,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.istuhin@gmail.com)
 [![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:dev.istuhin@icloud.com)
 
-### 🌍 Social Media
+###  Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/istuhin21)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/istuhin21)
 
@@ -93,7 +93,7 @@
 
 ---
 
-## ⚡ Tech Stack & Expertise
+##  Tech Stack & Expertise
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Animation" />
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-### 🐍 Programming Languages
+###  Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -111,30 +111,30 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚛️ Frontend Frameworks & Libraries
+### Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🔧 Backend & Runtime
+###  Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🗄️ Database & Cloud Services
+###  Database & Cloud Services
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 Automation & Tools
+###  Automation & Tools
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
-### 🛠️ Development Tools & Others
+###  Development Tools & Others
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -147,7 +147,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Performance
+##  GitHub Analytics & Performance
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Analytics Animation" />
@@ -165,7 +165,7 @@
 
 ---
 
-## 🏆 Badges & Certifications 
+##  Badges & Certifications 
 
 <div align="center">
   <a href="https://holopin.io/@istuhin">
@@ -206,7 +206,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
   
-  <h3>✨ "Where Silence Meets Syntax – Welcome to My Digital Playground" ✨</h3>
+  <h3> "Where Silence Meets Syntax – Welcome to My Digital Playground" </h3>
   
   <p>
     <strong> Building the future, one line of code at a time</strong><br>
