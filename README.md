@@ -38,7 +38,7 @@ Founder of **Connectis** &nbsp;·&nbsp; Open to collaboration
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=devisTuhin&show_icons=true&theme=dark&hide_border=true&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&text_color=c9d1d9&count_private=true" />
+<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devisTuhin&show_icons=true&theme=dark&hide_border=true&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&text_color=c9d1d9&count_private=true" />
 &nbsp;
 <img height="155" src="https://streak-stats.demolab.com/?user=devisTuhin&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=0d1117&stroke=1e3a2e" />
 
@@ -46,7 +46,7 @@ Founder of **Connectis** &nbsp;·&nbsp; Open to collaboration
 
 <div align="center">
 
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisTuhin&theme=dark&hide_border=true&title_color=00ff88&bg_color=0d1117&text_color=c9d1d9&layout=compact&langs_count=8" />
+<img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devisTuhin&theme=dark&hide_border=true&title_color=00ff88&bg_color=0d1117&text_color=c9d1d9&layout=compact&langs_count=8" />
 
 </div>
 
