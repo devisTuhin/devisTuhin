@@ -20,10 +20,10 @@
 
 <div align="center">
   <h2> Touhidur Rahman</h2>
-  <h3>Full-Stack Developer | Entrepreneur | Tech Innovator</h3>
+  <h3>Love-Stack Full Time Software Developer </h3>
   
   <p>
-    <strong> Founder & Owner of NiiHUT & HackiisLab</strong><br>
+    <strong> Founder & Owner of Connectis,  NiiHUT & HackiisLab</strong><br>
     <em>"Where Silence Meets Syntax – Welcome to My Silent Playground of Ideas and Code World"</em>
   </p>
   
