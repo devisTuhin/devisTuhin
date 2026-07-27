@@ -16,8 +16,6 @@
 
 I'm **Touhidur Rahman** — a software engineer specializing in full-stack web, cross-platform mobile (Flutter), and intelligent workflow automation. I build clean, purposeful software from product to deployment.
 
-Founder of **Connectis** &nbsp;·&nbsp; Open to collaboration
-
 ---
 
 ### Tech Stack
