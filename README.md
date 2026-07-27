@@ -12,7 +12,7 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 Software Engineer specializing in **Full-Stack Web**, **Cross-Platform Mobile (Flutter)**, and **Workflow Automation**. Building clean, resilient systems from product conceptualization to deployment.
 
@@ -29,25 +29,25 @@ Software Engineer specializing in **Full-Stack Web**, **Cross-Platform Mobile (F
 
 <br/>
 
-#### 💻 Programming Languages & Mobile
+#### Programming Languages & Mobile
 
 [![Languages & Mobile](https://skillicons.dev/icons?i=dart,flutter,js,ts,py,cpp,swift)](https://skillicons.dev)
 
 <br/>
 
-#### ⚡ Backend, DevOps & Databases
+#### Backend, DevOps & Databases
 
 [![Backend & DevOps](https://skillicons.dev/icons?i=docker,nodejs,express,mongodb,postgres,supabase,firebase)](https://skillicons.dev)
 
 <br/>
 
-#### 🎨 Frontend Frameworks
+#### Frontend Frameworks
 
 [![Frontend](https://skillicons.dev/icons?i=flutter,react,nextjs,vue,tailwind,html,css)](https://skillicons.dev)
 
 <br/>
 
-#### 🛠️ Automation, IDEs & Tools
+#### Automation, IDEs & Tools
 
 [![Tools](https://skillicons.dev/icons?i=selenium,git,vscode,postman,github)](https://skillicons.dev)
 
