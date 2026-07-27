@@ -76,6 +76,6 @@ Founder of **Connectis** &nbsp;·&nbsp; Open to collaboration
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=devisTuhin&style=flat-square&color=00ff88&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=istuhin&style=flat-square&color=00ff88&label=profile+views" />
 
 </div>
