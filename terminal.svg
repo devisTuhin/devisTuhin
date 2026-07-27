@@ -1,15 +1,15 @@
-<svg width="100%" viewBox="0 0 430 205" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 570 210" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Card background -->
-  <rect width="430" height="205" rx="12" ry="12" fill="#0d1117"/>
+  <rect width="570" height="210" rx="12" ry="12" fill="#0d1117"/>
 
   <!-- Border (neon-green tint) -->
-  <rect x="0.5" y="0.5" width="429" height="204" rx="11.5" ry="11.5"
+  <rect x="0.5" y="0.5" width="569" height="209" rx="11.5" ry="11.5"
         fill="none" stroke="#1e3a2e" stroke-width="1"/>
 
   <!-- Title bar -->
-  <rect x="0" y="0" width="430" height="40" rx="12" ry="12" fill="#111827"/>
-  <rect x="0" y="26" width="430" height="14" fill="#111827"/>
+  <rect x="0" y="0" width="570" height="40" rx="12" ry="12" fill="#111827"/>
+  <rect x="0" y="26" width="570" height="14" fill="#111827"/>
 
   <!-- Traffic lights -->
   <circle cx="24" cy="21" r="6" fill="#ff5f57"/>
@@ -17,27 +17,27 @@
   <circle cx="68" cy="21" r="6" fill="#28c840"/>
 
   <!-- Separator line -->
-  <line x1="0" y1="40" x2="430" y2="40" stroke="#1e3a2e" stroke-width="1"/>
+  <line x1="0" y1="40" x2="570" y2="40" stroke="#1e3a2e" stroke-width="1"/>
 
   <!-- $ whoami -->
-  <text x="20" y="68" font-family="'Courier New',Courier,monospace" font-size="14" fill="#00FF99">$</text>
-  <text x="36" y="68" font-family="'Courier New',Courier,monospace" font-size="14" fill="#e6edf3"> whoami</text>
+  <text x="20" y="68" font-family="'Courier New',Courier,monospace" font-size="17" fill="#00FF99">$</text>
+  <text x="36" y="68" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6edf3"> whoami</text>
 
   <!-- whoami output -->
-  <rect x="20" y="74" width="2" height="18" fill="#1e3a2e"/>
-  <text x="36" y="89" font-family="'Courier New',Courier,monospace" font-size="12.5" fill="#7d8590">isTuhin.dev &#8212; lovestack software developer</text>
+  <rect x="20" y="74" width="2" height="20" fill="#1e3a2e"/>
+  <text x="36" y="91" font-family="'Courier New',Courier,monospace" font-size="15" fill="#7d8590">isTuhin.dev &#8212; lovestack software developer</text>
 
   <!-- $ cat leadership.txt -->
-  <text x="20" y="118" font-family="'Courier New',Courier,monospace" font-size="14" fill="#00FF99">$</text>
-  <text x="36" y="118" font-family="'Courier New',Courier,monospace" font-size="14" fill="#e6edf3"> cat leadership.txt</text>
+  <text x="20" y="120" font-family="'Courier New',Courier,monospace" font-size="17" fill="#00FF99">$</text>
+  <text x="36" y="120" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6edf3"> cat leadership.txt</text>
 
   <!-- leadership.txt output -->
-  <rect x="20" y="124" width="2" height="22" fill="#1e3a2e"/>
-  <text x="36" y="141" font-family="'Courier New',Courier,monospace" font-size="12.5" fill="#7d8590">Founder &amp; Owner of Connectis, NiiHUT &amp; HackiisLab</text>
+  <rect x="20" y="126" width="2" height="22" fill="#1e3a2e"/>
+  <text x="36" y="144" font-family="'Courier New',Courier,monospace" font-size="15" fill="#7d8590">Founder &amp; Owner of Connectis, NiiHUT &amp; HackiisLab</text>
 
   <!-- Final prompt + blinking cursor -->
-  <text x="20" y="173" font-family="'Courier New',Courier,monospace" font-size="14" fill="#00FF99">$</text>
-  <rect x="36" y="160" width="9" height="15" fill="#00FF99">
+  <text x="20" y="174" font-family="'Courier New',Courier,monospace" font-size="17" fill="#00FF99">$</text>
+  <rect x="36" y="161" width="9" height="15" fill="#00FF99">
     <animate attributeName="opacity" values="1;1;0;0;1;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 
