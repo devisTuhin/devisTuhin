@@ -25,9 +25,20 @@
 
 ## Connect & Collaborate
 
-<div align="center">
-<a href="https://devistuhin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" width="110" /></a> <a href="https://linkedin.com/in/istuhin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="110" /></a> <a href="https://github.com/istuhin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="110" /></a> <a href="https://gitlab.com/istuhin"><img src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" width="110" /></a> <a href="mailto:dev.istuhin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="110" /></a> <a href="https://www.facebook.com/istuhin15"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="110" /></a> <a href="https://instagram.com/istuhin21"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="110" /></a>
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><a href="https://devistuhin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" width="95%" /></a></td>
+    <td align="center" width="25%"><a href="https://wa.me/qr/KGPL5IQIZZXYC1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="95%" /></a></td>
+    <td align="center" width="25%"><a href="https://linkedin.com/in/istuhin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="95%" /></a></td>
+    <td align="center" width="25%"><a href="https://github.com/istuhin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="95%" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><a href="https://gitlab.com/istuhin" target="_blank"><img src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" width="95%" /></a></td>
+    <td align="center" width="25%"><a href="mailto:dev.istuhin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="95%" /></a></td>
+    <td align="center" width="25%"><a href="https://www.facebook.com/istuhin21" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="95%" /></a></td>
+    <td align="center" width="25%"><a href="https://instagram.com/istuhin21" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="95%" /></a></td>
+  </tr>
+</table>
 
 ---
 
