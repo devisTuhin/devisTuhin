@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="./terminal.svg" alt="terminal" width="480" style="max-width: 100%; height: auto;" />
+  <img src="./terminal.svg" alt="terminal" width="520" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
