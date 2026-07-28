@@ -23,7 +23,7 @@
 
 ---
 
-## Connect & Collaborate
+## Connect 
 
 <table width="100%">
   <tr>
@@ -91,7 +91,7 @@
 
 ---
 
-## GitHub Analytics & Performance
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=highcontrast&hide_border=false" alt="GitHub Streak" width="490" style="max-width: 100%; height: auto;" /><br/><br/>
@@ -101,7 +101,7 @@
 
 ---
 
-## Badges & Certifications 
+## Certifications 
 
 <div align="center">
   <a href="https://holopin.io/@istuhin">
