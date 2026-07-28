@@ -136,10 +136,10 @@
 
 ---
 
-## ☕ Support My Journey
+##  Support My Journey
 
 <div align="center">
-  <p><strong>💖 Enjoying my projects? Your support fuels innovation!</strong></p>
+  <p><strong> Enjoying my projects? Your support fuels innovation!</strong></p>
   
   <a href="https://www.buymeacoffee.com/istuhin" target="_blank">
     <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="max-width: 100%; height: auto;" />
@@ -150,8 +150,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" style="max-width: 100%; height: auto;" />
-  
-  <h3>✨ "Where Silence Meets Syntax – Welcome to My Digital Playground" ✨</h3>
   
   <p>
     <strong>Building the future, one line of code at a time</strong>
