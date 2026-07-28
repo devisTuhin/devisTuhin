@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Connect & Collaborate
+##  Connect & Collaborate
 
 <table width="100%">
   <tr>
