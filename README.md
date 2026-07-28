@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <div align="center">
   <h2>👨‍💻 Touhidur Rahman</h2>
@@ -38,7 +38,7 @@
   </div>
 </div>
 
-### 🎯 Quick Highlights
+###  Quick Highlights
 - ⚡ **Core Focus:** Flutter, React Native, Full-Stack Development & Web Automation
 - 💼 **Ventures:** Founder &amp; Owner of **Connectis**, **HackiisLab** &amp; **Niihut**
 - 🌐 **Portfolio:** [devistuhin.vercel.app](https://devistuhin.vercel.app/)
@@ -47,7 +47,7 @@
 
 ---
 
-## 🌐 Connect & Collaborate
+## Connect & Collaborate
 
 <table width="100%">
   <tr>
@@ -66,9 +66,9 @@
 
 ---
 
-## ⚡ Tech Stack & Ecosystem
+##  Tech Stack & Ecosystem
 
-### 💻 Programming Languages & Mobile
+###  Programming Languages
 
 <table width="100%">
   <tr>
@@ -85,24 +85,7 @@
   </tr>
 </table>
 
-### ⚡ Backend, DevOps & Databases
-
-<table width="100%">
-  <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></td>
-    <td align="center" width="25%"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
-    <td align="center" width="25%"></td>
-  </tr>
-</table>
-
-### 🎨 Frontend Frameworks
+###  Frontend Frameworks
 
 <table width="100%">
   <tr>
@@ -119,7 +102,26 @@
   </tr>
 </table>
 
-### 🛠️ Automation, IDEs & Tools
+
+###  Backend, DevOps & Databases
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td>
+    <td align="center" width="25%"></td>
+  </tr>
+</table>
+
+
+###  Automation, IDEs & Tools
 
 <table width="100%">
   <tr>
@@ -138,7 +140,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Performance
+##  GitHub Analytics & Performance
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=highcontrast&hide_border=false" alt="GitHub Streak" width="490" style="max-width: 100%; height: auto;" /><br/><br/>
@@ -148,7 +150,7 @@
 
 ---
 
-## 🏆 Badges & Certifications 
+##  Badges & Certifications 
 
 <div align="center">
   <a href="https://holopin.io/@istuhin">
