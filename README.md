@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td align="center" width="25%"><a href="mailto:dev.istuhin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
-    <td align="center" width="25%"><a href="https://www.facebook.com/istuhin21" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a></td>
+    <td align="center" width="25%"><a href="https://www.facebook.com/isTuhin15" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a></td>
     <td align="center" width="25%"><a href="https://instagram.com/istuhin21" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></td>
     <td align="center" width="25%"></td>
   </tr>
