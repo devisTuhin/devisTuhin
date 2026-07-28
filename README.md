@@ -136,8 +136,6 @@
 
 ---
 
-##  Support My Journey
-
 <div align="center">
   <p><strong> Enjoying my projects? Your support fuels innovation!</strong></p>
   
