@@ -23,31 +23,7 @@
 
 ---
 
-##  About Me
-
-<div align="center">
-  <h2>👨‍💻 Touhidur Rahman</h2>
-  <p><strong>Founder &amp; Owner of Connectis, HackiisLab &amp; Niihut</strong></p>
-  <p><em>Full-Stack Developer | Flutter &amp; Mobile Specialist | Web Automation Expert</em></p>
-  
-  <div style="margin: 15px 0;">
-    <a href="https://devistuhin.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="max-width: 100%; height: auto;" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=istuhin&style=for-the-badge&color=00D4FF&label=Views" alt="Profile Views" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
-
-###  Quick Highlights
-- ⚡ **Core Focus:** Flutter, React Native, Full-Stack Development & Web Automation
-- 💼 **Ventures:** Founder &amp; Owner of **Connectis**, **HackiisLab** &amp; **Niihut**
-- 🌐 **Portfolio:** [devistuhin.vercel.app](https://devistuhin.vercel.app/)
-- 🧹 **Philosophy:** Clean Code, High Performance & User-Centric Design
-- ☕ **Fuel:** Coffee &amp; Night Owl Productivity
-
----
-
-## Connect & Collaborate
+## 🌐 Connect & Collaborate
 
 <table width="100%">
   <tr>
