@@ -79,8 +79,6 @@
 
 ---
 
-## Support My Journey
-
 <div align="center">
   <p><strong>Enjoying my projects? Your support fuels innovation!</strong></p>
   
@@ -93,9 +91,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" style="max-width: 100%; height: auto;" />
-  
-  <h3>"Where Silence Meets Syntax – Welcome to My Digital Playground"</h3>
-  
+    
   <p>
     <strong>Building the future, one line of code at a time</strong>
   </p>
