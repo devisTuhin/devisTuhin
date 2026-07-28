@@ -34,7 +34,7 @@
   <h3>Full-Stack Developer | Entrepreneur | Tech Innovator</h3>
   
   <p>
-    <strong>🚀 Founder & Owner of NiiHUT & HackiisLab</strong><br>
+    <strong>🚀 Founder & Owner of Connectis, HackiisLab & Niihut</strong><br>
     <em>"Where Silence Meets Syntax – Welcome to My Silent Playground of Ideas and Code World"</em>
   </p>
   
@@ -53,7 +53,7 @@
 
 ### 🎯 Professional Focus
 - ☁ **Core Expertise:** Flutter, React Native, Full-Stack Development
-- ☁ **Business:** Founder of NiiHUT & HackiisLab
+- ☁ **Business:** Founder of Connectis, HackiisLab & Niihut
 - 🫆 **Portfolio:** [devistuhin.vercel.app](https://devistuhin.vercel.app/)
 - 🧹 **Passionate About:** Clean Code, Performance Optimization
 - 🔧 **Specialization:** Web Automation & Mobile Development

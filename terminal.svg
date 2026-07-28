@@ -25,7 +25,7 @@
 
   <!-- whoami output -->
   <rect x="20" y="78" width="2" height="20" fill="#374151"/>
-  <text x="36" y="93" font-family="'Courier New',Courier,monospace" font-size="15" fill="#ffffff" font-weight="500">isTuhin.dev <tspan fill="#9ca3af" font-weight="normal">(lovestack software developer)</tspan></text>
+  <text x="36" y="93" font-family="'Courier New',Courier,monospace" font-size="14.5" fill="#ffffff" font-weight="500">isTuhin.dev <tspan fill="#9ca3af" font-weight="normal">(lovestack software developer)</tspan></text>
 
   <!-- $ cat leadership.txt -->
   <text x="20" y="126" font-family="'Courier New',Courier,monospace" font-size="16" font-weight="bold" fill="#00FF99">$</text>
@@ -33,10 +33,11 @@
 
   <!-- leadership.txt output -->
   <rect x="20" y="132" width="2" height="24" fill="#00FF99"/>
-  <text x="36" y="149" font-family="'Courier New',Courier,monospace" font-size="15" fill="#ffffff" font-weight="bold">Founder &amp; Owner of <tspan fill="#00FF99" text-decoration="underline">Connectis.</tspan></text>
+  <text x="36" y="149" font-family="'Courier New',Courier,monospace" font-size="14" fill="#ffffff" font-weight="bold">Founder &amp; Owner of <tspan fill="#00FF99" text-decoration="underline">Connectis, HackiisLab &amp; Niihut.</tspan></text>
 
-  <!-- Blinking cursor after Connectis. -->
-  <rect x="330" y="135" width="9" height="17" fill="#00FF99" rx="1">
+  <!-- Blinking cursor after Niihut. -->
+  <text x="20" y="180" font-family="'Courier New',Courier,monospace" font-size="16" font-weight="bold" fill="#00FF99">$</text>
+  <rect x="36" y="167" width="9" height="17" fill="#00FF99" rx="1">
     <animate attributeName="opacity" values="1;1;0;0;1;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 
