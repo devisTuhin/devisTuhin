@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=dev.isTuhin&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38" style="max-width: 100%; height: auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=isTuhin.dev&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38" style="max-width: 100%; height: auto;" />
 </div>
 
 <div align="center">
