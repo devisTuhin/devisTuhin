@@ -1,21 +1,21 @@
-<div align="center">
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=dev.isTuhin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" style="max-width: 100%; height: auto;" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Flutter+%26+Mobile+Expert;Web+Automation+Specialist;Entrepreneur+%26+Tech+Innovator;Always+Learning+New+Technologies" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
 
 <!-- Portfolio Screenshot Containers -->
-<div align="center">
+<div>
   <img src="./header.svg" alt="isTuhin.dev" width="520" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
 
-<div align="center">
+<div>
   <img src="./terminal.svg" alt="terminal" width="520" style="max-width: 100%; height: auto;" />
 </div>
 
@@ -25,7 +25,7 @@
 
 ## About Me
 
-<div align="center">
+<div>
   <h2>👨‍💻 Touhidur Rahman</h2>
   <p><strong>Founder &amp; Owner of Connectis, HackiisLab &amp; Niihut</strong></p>
   <p><em>Full-Stack Developer | Flutter &amp; Mobile Specialist | Web Automation Expert</em></p>
@@ -49,7 +49,7 @@
 
 ## Connect & Collaborate
 
-<p align="center">
+<p>
   <a href="https://devistuhin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/istuhin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/istuhin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -66,7 +66,7 @@
 
 ### Programming Languages & Mobile
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -80,7 +80,7 @@
 
 ### Frontend Frameworks
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -94,7 +94,7 @@
 
 ### Backend, DevOps & Databases
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -107,7 +107,7 @@
 
 ### Automation, IDEs & Tools
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -121,7 +121,7 @@
 
 ## 📊 GitHub Analytics & Performance
 
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=highcontrast&hide_border=false" alt="GitHub Streak" width="490" style="max-width: 100%; height: auto;" /><br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="490" style="max-width: 100%; height: auto;" /><br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="490" style="max-width: 100%; height: auto;" />
@@ -131,7 +131,7 @@
 
 ## 🏆 Badges & Certifications 
 
-<div align="center">
+<div>
   <a href="https://holopin.io/@istuhin">
     <img src="https://holopin.me/istuhin" alt="Holopin Badge Board" style="max-width: 100%; height: auto;" />
   </a>
@@ -141,7 +141,7 @@
 
 ## ☕ Support My Journey
 
-<div align="center">
+<div>
   <p><strong>💖 Enjoying my projects? Your support fuels innovation!</strong></p>
   
   <a href="https://www.buymeacoffee.com/istuhin" target="_blank">
@@ -151,7 +151,7 @@
 
 ---
 
-<div align="center">
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" style="max-width: 100%; height: auto;" />
   
   <h3>✨ "Where Silence Meets Syntax – Welcome to My Digital Playground" ✨</h3>
