@@ -45,7 +45,7 @@
 ## Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="./techstack.svg" alt="Tech Stack & Ecosystem" width="750" style="max-width: 100%; height: auto;" />
+  <img src="./techstack.svg" alt="Tech Stack & Ecosystem" width="520" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
