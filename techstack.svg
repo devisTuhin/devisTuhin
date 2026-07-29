@@ -1,210 +1,210 @@
 <svg width="100%" viewBox="0 0 700 750" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .section-tag { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #00FF99; opacity: 0.9; }
+    .section-tag { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #00FF99; opacity: 0.95; }
     .section-title { font-family: 'Courier New', Courier, monospace; font-size: 26px; font-weight: 800; fill: #ffffff; }
-    .card-title { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: 700; fill: #ffffff; }
+    .card-title { font-family: 'Courier New', Courier, monospace; font-size: 15px; font-weight: 700; fill: #ffffff; }
     .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; text-anchor: middle; }
   </style>
 
   <!-- Section Header -->
-  <text x="20" y="30" class="section-tag">&lt;section id="techstack"&gt;</text>
-  <text x="20" y="65" class="section-title">Tech Stack &amp; Ecosystem</text>
-  <line x1="330" y1="58" x2="680" y2="58" stroke="#00FF99" stroke-opacity="0.3" stroke-width="1.5"/>
+  <text x="20" y="32" class="section-tag">&lt;section id="techstack"&gt;</text>
+  <text x="20" y="68" class="section-title">Tech Stack &amp; Ecosystem</text>
+  <line x1="340" y1="60" x2="680" y2="60" stroke="#334155" stroke-opacity="0.6" stroke-width="1.5"/>
 
   <!-- ==================== CARD 1: Programming Languages & Mobile ==================== -->
-  <rect x="20" y="90" width="660" height="135" rx="14" ry="14" fill="#121217"/>
-  <rect x="20.5" y="90.5" width="659" height="134" rx="13.5" ry="13.5" fill="none" stroke="#00FF99" stroke-opacity="0.4" stroke-width="1.5"/>
-  <text x="40" y="120" class="card-title"><tspan fill="#00FF99">&gt; </tspan>Programming Languages &amp; Mobile</text>
+  <rect x="20" y="90" width="660" height="135" rx="14" ry="14" fill="#0f172a"/>
+  <rect x="20.5" y="90.5" width="659" height="134" rx="13.5" ry="13.5" fill="none" stroke="#10b981" stroke-opacity="0.5" stroke-width="1.5"/>
+  <text x="40" y="122" class="card-title"><tspan fill="#00FF99">&gt; </tspan>Programming Languages &amp; Mobile</text>
 
   <!-- Dart -->
-  <g transform="translate(40, 135)">
+  <g transform="translate(40, 138)">
     <rect width="75" height="32" rx="6" fill="#0175C2"/>
     <text x="37.5" y="21" class="badge-text" fill="#ffffff">Dart</text>
   </g>
 
   <!-- Flutter -->
-  <g transform="translate(125, 135)">
+  <g transform="translate(125, 138)">
     <rect width="90" height="32" rx="6" fill="#02569B"/>
     <text x="45" y="21" class="badge-text" fill="#ffffff">Flutter</text>
   </g>
 
   <!-- JavaScript -->
-  <g transform="translate(225, 135)">
+  <g transform="translate(225, 138)">
     <rect width="115" height="32" rx="6" fill="#F7DF1E"/>
     <text x="57.5" y="21" class="badge-text" fill="#000000">JavaScript</text>
   </g>
 
   <!-- TypeScript -->
-  <g transform="translate(350, 135)">
+  <g transform="translate(350, 138)">
     <rect width="115" height="32" rx="6" fill="#3178C6"/>
     <text x="57.5" y="21" class="badge-text" fill="#ffffff">TypeScript</text>
   </g>
 
   <!-- Python -->
-  <g transform="translate(475, 135)">
+  <g transform="translate(475, 138)">
     <rect width="90" height="32" rx="6" fill="#3776AB"/>
     <text x="45" y="21" class="badge-text" fill="#ffffff">Python</text>
   </g>
 
   <!-- C++ -->
-  <g transform="translate(40, 177)">
+  <g transform="translate(40, 180)">
     <rect width="65" height="32" rx="6" fill="#00599C"/>
     <text x="32.5" y="21" class="badge-text" fill="#ffffff">C++</text>
   </g>
 
   <!-- Swift -->
-  <g transform="translate(115, 177)">
+  <g transform="translate(115, 180)">
     <rect width="75" height="32" rx="6" fill="#FA7343"/>
     <text x="37.5" y="21" class="badge-text" fill="#ffffff">Swift</text>
   </g>
 
   <!-- Java -->
-  <g transform="translate(200, 177)">
+  <g transform="translate(200, 180)">
     <rect width="65" height="32" rx="6" fill="#007396"/>
     <text x="32.5" y="21" class="badge-text" fill="#ffffff">Java</text>
   </g>
 
   <!-- ==================== CARD 2: Frontend Frameworks ==================== -->
-  <rect x="20" y="245" width="660" height="135" rx="14" ry="14" fill="#121217"/>
-  <rect x="20.5" y="245.5" width="659" height="134" rx="13.5" ry="13.5" fill="none" stroke="#00FF99" stroke-opacity="0.4" stroke-width="1.5"/>
-  <text x="40" y="275" class="card-title"><tspan fill="#00FF99">&gt; </tspan>Frontend Frameworks</text>
+  <rect x="20" y="245" width="660" height="135" rx="14" ry="14" fill="#0f172a"/>
+  <rect x="20.5" y="245.5" width="659" height="134" rx="13.5" ry="13.5" fill="none" stroke="#10b981" stroke-opacity="0.5" stroke-width="1.5"/>
+  <text x="40" y="277" class="card-title"><tspan fill="#00FF99">&gt; </tspan>Frontend Frameworks</text>
 
   <!-- Flutter -->
-  <g transform="translate(40, 290)">
+  <g transform="translate(40, 293)">
     <rect width="90" height="32" rx="6" fill="#02569B"/>
     <text x="45" y="21" class="badge-text" fill="#ffffff">Flutter</text>
   </g>
 
   <!-- React Native -->
-  <g transform="translate(140, 290)">
+  <g transform="translate(140, 293)">
     <rect width="125" height="32" rx="6" fill="#162c3d" stroke="#61DAFB" stroke-width="1"/>
     <text x="62.5" y="21" class="badge-text" fill="#61DAFB">React Native</text>
   </g>
 
   <!-- React -->
-  <g transform="translate(275, 290)">
+  <g transform="translate(275, 293)">
     <rect width="75" height="32" rx="6" fill="#162c3d" stroke="#61DAFB" stroke-width="1"/>
     <text x="37.5" y="21" class="badge-text" fill="#61DAFB">React</text>
   </g>
 
   <!-- Next.js -->
-  <g transform="translate(360, 290)">
+  <g transform="translate(360, 293)">
     <rect width="85" height="32" rx="6" fill="#000000" stroke="#444444" stroke-width="1"/>
     <text x="42.5" y="21" class="badge-text" fill="#ffffff">Next.js</text>
   </g>
 
   <!-- Vue.js -->
-  <g transform="translate(455, 290)">
+  <g transform="translate(455, 293)">
     <rect width="80" height="32" rx="6" fill="#4FC08D"/>
     <text x="40" y="21" class="badge-text" fill="#ffffff">Vue.js</text>
   </g>
 
   <!-- Tailwind CSS -->
-  <g transform="translate(40, 332)">
+  <g transform="translate(40, 335)">
     <rect width="125" height="32" rx="6" fill="#06B6D4"/>
     <text x="62.5" y="21" class="badge-text" fill="#ffffff">Tailwind CSS</text>
   </g>
 
   <!-- HTML5 -->
-  <g transform="translate(175, 332)">
+  <g transform="translate(175, 335)">
     <rect width="80" height="32" rx="6" fill="#E34F26"/>
     <text x="40" y="21" class="badge-text" fill="#ffffff">HTML5</text>
   </g>
 
   <!-- CSS3 -->
-  <g transform="translate(265, 332)">
+  <g transform="translate(265, 335)">
     <rect width="70" height="32" rx="6" fill="#1572B6"/>
     <text x="35" y="21" class="badge-text" fill="#ffffff">CSS3</text>
   </g>
 
   <!-- ==================== CARD 3: Backend, DevOps & Databases ==================== -->
-  <rect x="20" y="400" width="660" height="135" rx="14" ry="14" fill="#121217"/>
-  <rect x="20.5" y="400.5" width="659" height="134" rx="13.5" ry="13.5" fill="none" stroke="#00FF99" stroke-opacity="0.4" stroke-width="1.5"/>
-  <text x="40" y="430" class="card-title"><tspan fill="#00FF99">&gt; </tspan>Backend, DevOps &amp; Databases</text>
+  <rect x="20" y="400" width="660" height="135" rx="14" ry="14" fill="#0f172a"/>
+  <rect x="20.5" y="400.5" width="659" height="134" rx="13.5" ry="13.5" fill="none" stroke="#10b981" stroke-opacity="0.5" stroke-width="1.5"/>
+  <text x="40" y="432" class="card-title"><tspan fill="#00FF99">&gt; </tspan>Backend, DevOps &amp; Databases</text>
 
   <!-- Docker -->
-  <g transform="translate(40, 445)">
+  <g transform="translate(40, 448)">
     <rect width="85" height="32" rx="6" fill="#2496ED"/>
     <text x="42.5" y="21" class="badge-text" fill="#ffffff">Docker</text>
   </g>
 
   <!-- Node.js -->
-  <g transform="translate(135, 445)">
+  <g transform="translate(135, 448)">
     <rect width="90" height="32" rx="6" fill="#339933"/>
     <text x="45" y="21" class="badge-text" fill="#ffffff">Node.js</text>
   </g>
 
   <!-- Express.js -->
-  <g transform="translate(235, 445)">
+  <g transform="translate(235, 448)">
     <rect width="105" height="32" rx="6" fill="#1e1e24" stroke="#444444" stroke-width="1"/>
     <text x="52.5" y="21" class="badge-text" fill="#ffffff">Express.js</text>
   </g>
 
   <!-- MongoDB -->
-  <g transform="translate(350, 445)">
+  <g transform="translate(350, 448)">
     <rect width="100" height="32" rx="6" fill="#47A248"/>
     <text x="50" y="21" class="badge-text" fill="#ffffff">MongoDB</text>
   </g>
 
   <!-- PostgreSQL -->
-  <g transform="translate(40, 487)">
+  <g transform="translate(40, 490)">
     <rect width="115" height="32" rx="6" fill="#4169E1"/>
     <text x="57.5" y="21" class="badge-text" fill="#ffffff">PostgreSQL</text>
   </g>
 
   <!-- Supabase -->
-  <g transform="translate(165, 487)">
+  <g transform="translate(165, 490)">
     <rect width="100" height="32" rx="6" fill="#3ECF8E"/>
     <text x="50" y="21" class="badge-text" fill="#000000">Supabase</text>
   </g>
 
   <!-- Firebase -->
-  <g transform="translate(275, 487)">
+  <g transform="translate(275, 490)">
     <rect width="95" height="32" rx="6" fill="#FFCA28"/>
     <text x="47.5" y="21" class="badge-text" fill="#000000">Firebase</text>
   </g>
 
   <!-- ==================== CARD 4: Automation, IDEs & Tools ==================== -->
-  <rect x="20" y="555" width="660" height="135" rx="14" ry="14" fill="#121217"/>
-  <rect x="20.5" y="555.5" width="659" height="134" rx="13.5" ry="13.5" fill="none" stroke="#00FF99" stroke-opacity="0.4" stroke-width="1.5"/>
-  <text x="40" y="585" class="card-title"><tspan fill="#00FF99">&gt; </tspan>Automation, IDEs &amp; Tools</text>
+  <rect x="20" y="555" width="660" height="135" rx="14" ry="14" fill="#0f172a"/>
+  <rect x="20.5" y="555.5" width="659" height="134" rx="13.5" ry="13.5" fill="none" stroke="#10b981" stroke-opacity="0.5" stroke-width="1.5"/>
+  <text x="40" y="587" class="card-title"><tspan fill="#00FF99">&gt; </tspan>Automation, IDEs &amp; Tools</text>
 
   <!-- Selenium -->
-  <g transform="translate(40, 600)">
+  <g transform="translate(40, 603)">
     <rect width="95" height="32" rx="6" fill="#43B02A"/>
     <text x="47.5" y="21" class="badge-text" fill="#ffffff">Selenium</text>
   </g>
 
   <!-- Puppeteer -->
-  <g transform="translate(145, 600)">
+  <g transform="translate(145, 603)">
     <rect width="105" height="32" rx="6" fill="#40B5A4"/>
     <text x="52.5" y="21" class="badge-text" fill="#ffffff">Puppeteer</text>
   </g>
 
   <!-- n8n -->
-  <g transform="translate(260, 600)">
+  <g transform="translate(260, 603)">
     <rect width="65" height="32" rx="6" fill="#EA4B71"/>
     <text x="32.5" y="21" class="badge-text" fill="#ffffff">n8n</text>
   </g>
 
   <!-- Git -->
-  <g transform="translate(335, 600)">
+  <g transform="translate(335, 603)">
     <rect width="65" height="32" rx="6" fill="#F05032"/>
     <text x="32.5" y="21" class="badge-text" fill="#ffffff">Git</text>
   </g>
 
   <!-- VS Code -->
-  <g transform="translate(40, 642)">
+  <g transform="translate(40, 645)">
     <rect width="95" height="32" rx="6" fill="#007ACC"/>
     <text x="47.5" y="21" class="badge-text" fill="#ffffff">VS Code</text>
   </g>
 
   <!-- Postman -->
-  <g transform="translate(145, 642)">
+  <g transform="translate(145, 645)">
     <rect width="95" height="32" rx="6" fill="#FF6C37"/>
     <text x="47.5" y="21" class="badge-text" fill="#ffffff">Postman</text>
   </g>
 
   <!-- Section Footer Tag -->
-  <text x="20" y="720" class="section-tag">&lt;/section&gt;</text>
+  <text x="20" y="725" class="section-tag">&lt;/section&gt;</text>
 </svg>
