@@ -23,9 +23,8 @@
 
 <!-- Support & Profile Views -->
 <p align="center">
-  <a href="https://www.buymeacoffee.com/istuhin" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="28" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/istuhin"><img src="https://komarev.com/ghpvc/?username=istuhin&style=for-the-badge&color=00D4FF&label=Profile+Views" alt="Profile Views" height="28" /></a>
+  <a href="https://www.buymeacoffee.com/istuhin" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="25" /></a>
+  <a href="https://github.com/istuhin"><img src="https://komarev.com/ghpvc/?username=istuhin&style=for-the-badge&color=00FF99&label=Profile+Views" alt="Profile Views" height="25" /></a>
 </p>
 
 <br/>
