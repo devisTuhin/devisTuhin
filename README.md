@@ -53,9 +53,9 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devistuhin&theme=highcontrast&hide_border=false" alt="GitHub Streak" width="490" style="max-width: 100%; height: auto;" /><br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="490" style="max-width: 100%; height: auto;" /><br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devistuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="490" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=istuhin&theme=highcontrast&hide_border=false" alt="GitHub Streak" width="490" style="max-width: 100%; height: auto;" /><br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=istuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="490" style="max-width: 100%; height: auto;" /><br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=istuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="490" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
