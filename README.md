@@ -31,7 +31,7 @@
 
 ---
 
-## Connect 
+<p align="left"><strong><font size="5">Connect</font></strong></p>
 
 <div align="center">
   <a href="https://devistuhin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -46,9 +46,9 @@
 
 ---
 
-## Tech Stack & Ecosystem
+<p align="left"><strong><font size="5">Tech Stack &amp; Ecosystem</font></strong></p>
 
-### &gt; Programming Languages &amp; Mobile
+<p align="left"><strong><font size="4" color="#00FF99">&gt; Programming Languages &amp; Mobile</font></strong></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -63,7 +63,7 @@
 
 <br/>
 
-### &gt; Frontend Frameworks
+<p align="left"><strong><font size="4" color="#00FF99">&gt; Frontend Frameworks</font></strong></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -78,7 +78,7 @@
 
 <br/>
 
-### &gt; Backend, DevOps &amp; Databases
+<p align="left"><strong><font size="4" color="#00FF99">&gt; Backend, DevOps &amp; Databases</font></strong></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -92,7 +92,7 @@
 
 <br/>
 
-### &gt; Automation, IDEs &amp; Tools
+<p align="left"><strong><font size="4" color="#00FF99">&gt; Automation, IDEs &amp; Tools</font></strong></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
@@ -105,7 +105,7 @@
 
 ---
 
-## GitHub Analytics
+<p align="left"><strong><font size="5">GitHub Analytics</font></strong></p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=istuhin&theme=highcontrast&hide_border=false" alt="GitHub Streak" width="490" style="max-width: 100%; height: auto;" /><br/><br/>
@@ -115,7 +115,7 @@
 
 ---
 
-## Certifications 
+<p align="left"><strong><font size="5">Certifications</font></strong></p> 
 
 <div align="center">
   <a href="https://holopin.io/@istuhin">
