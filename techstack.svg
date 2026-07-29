@@ -1,0 +1,231 @@
+<svg width="100%" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .section-tag { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #00FF99; opacity: 0.9; }
+    .section-title { font-family: 'Courier New', Courier, monospace; font-size: 26px; font-weight: 800; fill: #ffffff; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; }
+  </style>
+
+  <!-- Section Tag Header -->
+  <text x="15" y="25" class="section-tag">&lt;section id="techstack"&gt;</text>
+  <text x="15" y="58" class="section-title">Tech Stack &amp; Ecosystem</text>
+
+  <!-- Container Box -->
+  <rect x="15" y="75" width="610" height="365" rx="14" ry="14" fill="#0d1117"/>
+  <rect x="15.5" y="75.5" width="609" height="364" rx="13.5" ry="13.5" fill="none" stroke="#00FF99" stroke-opacity="0.5" stroke-width="1.5"/>
+
+  <!-- Row 1 -->
+  <!-- Dart -->
+  <g transform="translate(35, 96)">
+    <rect width="80" height="30" rx="6" fill="#0175C2"/>
+    <path d="M11 9.5L16.5 15L12.5 20.5L7 15z" fill="#ffffff" opacity="0.9"/>
+    <path d="M16.5 15L20 18.5L15 20.5L12.5 20.5z" fill="#ffffff" opacity="0.6"/>
+    <text x="26" y="20" class="badge-text" fill="#ffffff">Dart</text>
+  </g>
+
+  <!-- Flutter -->
+  <g transform="translate(123, 96)">
+    <rect width="92" height="30" rx="6" fill="#02569B"/>
+    <path d="M17 8.5L10.5 15L13.5 18L20 11.5z" fill="#ffffff"/>
+    <path d="M13.5 18L16.5 21L20 17.5L17 14.5z" fill="#39CEFD"/>
+    <text x="25" y="20" class="badge-text" fill="#ffffff">Flutter</text>
+  </g>
+
+  <!-- JavaScript -->
+  <g transform="translate(223, 96)">
+    <rect width="118" height="30" rx="6" fill="#F7DF1E"/>
+    <rect x="8" y="7.5" width="15" height="15" rx="2" fill="#000000"/>
+    <text x="11" y="19" font-family="sans-serif" font-size="10" font-weight="900" fill="#F7DF1E">JS</text>
+    <text x="29" y="20" class="badge-text" fill="#000000">JavaScript</text>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- TypeScript -->
+  <g transform="translate(35, 138)">
+    <rect width="118" height="30" rx="6" fill="#3178C6"/>
+    <rect x="8" y="7.5" width="15" height="15" rx="2" fill="#ffffff"/>
+    <text x="11" y="19" font-family="sans-serif" font-size="10" font-weight="900" fill="#3178C6">TS</text>
+    <text x="29" y="20" class="badge-text" fill="#ffffff">TypeScript</text>
+  </g>
+
+  <!-- Python -->
+  <g transform="translate(161, 138)">
+    <rect width="95" height="30" rx="6" fill="#3776AB"/>
+    <path d="M12 8c-2 0-3 1-3 2.5v2h3v.5H9v2c0 1.5 1 2.5 3 2.5h2v-1.5c0-1-.8-1.5-2-1.5h-1v-2h4c1.5 0 2.5-1 2.5-2.5V8.5C18 7 16.5 7 14 7h-2z" fill="#FFD43B"/>
+    <path d="M16 22c2 0 3-1 3-2.5v-2h-3v-.5h3v-2c0-1.5-1-2.5-3-2.5h-2v1.5c0 1 .8 1.5 2 1.5h1v2h-4c-1.5 0-2.5 1-2.5 2.5v1.5c0 1.5 1.5 1.5 4 1.5h2z" fill="#306998"/>
+    <text x="26" y="20" class="badge-text" fill="#ffffff">Python</text>
+  </g>
+
+  <!-- C++ -->
+  <g transform="translate(264, 138)">
+    <rect width="72" height="30" rx="6" fill="#00599C"/>
+    <text x="10" y="20" class="badge-text" fill="#ffffff">C++</text>
+  </g>
+
+  <!-- Swift -->
+  <g transform="translate(344, 138)">
+    <rect width="82" height="30" rx="6" fill="#FA7343"/>
+    <path d="M18 8c-3 3-5 7-4 11-2-1-4-4-4-7 0 3 2 6 5 8-4 0-7-3-7-7 0 4 3 8 8 8 4 0 7-3 7-7-2 1-4 0-5-6z" fill="#ffffff"/>
+    <text x="25" y="20" class="badge-text" fill="#ffffff">Swift</text>
+  </g>
+
+  <!-- Java -->
+  <g transform="translate(434, 138)">
+    <rect width="78" height="30" rx="6" fill="#007396"/>
+    <text x="12" y="20" class="badge-text" fill="#ffffff">Java</text>
+  </g>
+
+  <!-- Row 3 -->
+  <!-- React Native -->
+  <g transform="translate(35, 180)">
+    <rect width="132" height="30" rx="6" fill="#162c3d" stroke="#61DAFB" stroke-width="1"/>
+    <ellipse cx="18" cy="15" rx="7" ry="3" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(30 18 15)"/>
+    <ellipse cx="18" cy="15" rx="7" ry="3" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(90 18 15)"/>
+    <ellipse cx="18" cy="15" rx="7" ry="3" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(150 18 15)"/>
+    <circle cx="18" cy="15" r="1.5" fill="#61DAFB"/>
+    <text x="31" y="20" class="badge-text" fill="#61DAFB">React Native</text>
+  </g>
+
+  <!-- React -->
+  <g transform="translate(175, 180)">
+    <rect width="85" height="30" rx="6" fill="#162c3d" stroke="#61DAFB" stroke-width="1"/>
+    <ellipse cx="17" cy="15" rx="6" ry="2.5" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(30 17 15)"/>
+    <ellipse cx="17" cy="15" rx="6" ry="2.5" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(90 17 15)"/>
+    <ellipse cx="17" cy="15" rx="6" ry="2.5" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(150 17 15)"/>
+    <circle cx="17" cy="15" r="1.2" fill="#61DAFB"/>
+    <text x="28" y="20" class="badge-text" fill="#61DAFB">React</text>
+  </g>
+
+  <!-- Next.js -->
+  <g transform="translate(268, 180)">
+    <rect width="92" height="30" rx="6" fill="#000000" stroke="#333333" stroke-width="1"/>
+    <circle cx="16" cy="15" r="7" fill="#ffffff"/>
+    <path d="M13 11v8l7-9h-2l-5 6v-5z" fill="#000000"/>
+    <text x="27" y="20" class="badge-text" fill="#ffffff">Next.js</text>
+  </g>
+
+  <!-- Vue.js -->
+  <g transform="translate(368, 180)">
+    <rect width="85" height="30" rx="6" fill="#4FC08D"/>
+    <path d="M9 10h4l3 5 3-5h4l-7 12z" fill="#35495E"/>
+    <path d="M12 10h2l3 3.5 3-3.5h2l-5 8.5z" fill="#4FC08D"/>
+    <text x="25" y="20" class="badge-text" fill="#ffffff">Vue.js</text>
+  </g>
+
+  <!-- Row 4 -->
+  <!-- Tailwind CSS -->
+  <g transform="translate(35, 222)">
+    <rect width="132" height="30" rx="6" fill="#06B6D4"/>
+    <path d="M12 15c1.3-2.6 3-3.9 5.3-3.9 3.4 0 4.3 2.6 6 2.6 1.2 0 2.2-.7 3.2-2.1-1.3 2.6-3 3.9-5.3 3.9-3.4 0-4.3-2.6-6-2.6-1.2 0-2.2.7-3.2 2.1z" fill="#ffffff"/>
+    <text x="28" y="20" class="badge-text" fill="#ffffff">Tailwind CSS</text>
+  </g>
+
+  <!-- HTML5 -->
+  <g transform="translate(175, 222)">
+    <rect width="85" height="30" rx="6" fill="#E34F26"/>
+    <path d="M10 8l1 11 5 1.5 5-1.5 1-11H10z" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+    <text x="25" y="20" class="badge-text" fill="#ffffff">HTML5</text>
+  </g>
+
+  <!-- CSS3 -->
+  <g transform="translate(268, 222)">
+    <rect width="78" height="30" rx="6" fill="#1572B6"/>
+    <text x="18" y="20" class="badge-text" fill="#ffffff">CSS3</text>
+  </g>
+
+  <!-- Docker -->
+  <g transform="translate(354, 222)">
+    <rect width="92" height="30" rx="6" fill="#2496ED"/>
+    <rect x="9" y="14" width="3" height="3" fill="#ffffff"/>
+    <rect x="13" y="14" width="3" height="3" fill="#ffffff"/>
+    <rect x="17" y="14" width="3" height="3" fill="#ffffff"/>
+    <rect x="13" y="10" width="3" height="3" fill="#ffffff"/>
+    <rect x="17" y="10" width="3" height="3" fill="#ffffff"/>
+    <text x="25" y="20" class="badge-text" fill="#ffffff">Docker</text>
+  </g>
+
+  <!-- Node.js -->
+  <g transform="translate(454, 222)">
+    <rect width="95" height="30" rx="6" fill="#339933"/>
+    <path d="M14 9l5 3v6l-5 3-5-3v-6z" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+    <text x="24" y="20" class="badge-text" fill="#ffffff">Node.js</text>
+  </g>
+
+  <!-- Row 5 -->
+  <!-- Express.js -->
+  <g transform="translate(35, 264)">
+    <rect width="108" height="30" rx="6" fill="#1e1e24" stroke="#444" stroke-width="1"/>
+    <text x="14" y="20" class="badge-text" fill="#ffffff">Express.js</text>
+  </g>
+
+  <!-- MongoDB -->
+  <g transform="translate(151, 264)">
+    <rect width="105" height="30" rx="6" fill="#47A248"/>
+    <path d="M16 8c-2 4-4 7-4 10 0 2 1.5 4 4 4s4-2 4-4c0-3-2-6-4-10z" fill="#ffffff" opacity="0.8"/>
+    <text x="24" y="20" class="badge-text" fill="#ffffff">MongoDB</text>
+  </g>
+
+  <!-- PostgreSQL -->
+  <g transform="translate(264, 264)">
+    <rect width="118" height="30" rx="6" fill="#4169E1"/>
+    <text x="14" y="20" class="badge-text" fill="#ffffff">PostgreSQL</text>
+  </g>
+
+  <!-- Supabase -->
+  <g transform="translate(390, 264)">
+    <rect width="102" height="30" rx="6" fill="#3ECF8E"/>
+    <path d="M16 7l-6 9h5l-1 7 6-9h-5z" fill="#000000"/>
+    <text x="24" y="20" class="badge-text" fill="#000000">Supabase</text>
+  </g>
+
+  <!-- Row 6 -->
+  <!-- Firebase -->
+  <g transform="translate(35, 306)">
+    <rect width="98" height="30" rx="6" fill="#FFCA28"/>
+    <path d="M10 21l3-13 3 5z" fill="#FFA000"/>
+    <path d="M10 21l8-6-2-10z" fill="#F57C00"/>
+    <text x="22" y="20" class="badge-text" fill="#000000">Firebase</text>
+  </g>
+
+  <!-- Selenium -->
+  <g transform="translate(141, 306)">
+    <rect width="98" height="30" rx="6" fill="#43B02A"/>
+    <text x="14" y="20" class="badge-text" fill="#ffffff">Selenium</text>
+  </g>
+
+  <!-- Puppeteer -->
+  <g transform="translate(247, 306)">
+    <rect width="108" height="30" rx="6" fill="#40B5A4"/>
+    <text x="14" y="20" class="badge-text" fill="#ffffff">Puppeteer</text>
+  </g>
+
+  <!-- n8n -->
+  <g transform="translate(363, 306)">
+    <rect width="72" height="30" rx="6" fill="#EA4B71"/>
+    <text x="16" y="20" class="badge-text" fill="#ffffff">n8n</text>
+  </g>
+
+  <!-- Git -->
+  <g transform="translate(443, 306)">
+    <rect width="72" height="30" rx="6" fill="#F05032"/>
+    <path d="M14 9l4 4-5 5-4-4z" fill="#ffffff"/>
+    <text x="22" y="20" class="badge-text" fill="#ffffff">Git</text>
+  </g>
+
+  <!-- Row 7 -->
+  <!-- VS Code -->
+  <g transform="translate(35, 348)">
+    <rect width="98" height="30" rx="6" fill="#007ACC"/>
+    <path d="M10 15l4-4-4-4v8z" fill="#ffffff"/>
+    <text x="22" y="20" class="badge-text" fill="#ffffff">VS Code</text>
+  </g>
+
+  <!-- Postman -->
+  <g transform="translate(141, 348)">
+    <rect width="98" height="30" rx="6" fill="#FF6C37"/>
+    <circle cx="15" cy="15" r="5" fill="#ffffff"/>
+    <text x="25" y="20" class="badge-text" fill="#ffffff">Postman</text>
+  </g>
+
+  <!-- Section Footer Tag -->
+  <text x="15" y="465" class="section-tag">&lt;/section&gt;</text>
+</svg>
