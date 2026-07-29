@@ -48,6 +48,8 @@
 
 <p align="center"><strong><font size="6">Ecosystem</font></strong></p>
 
+<img src="./divider.svg" width="100%" />
+
 <p align="left"><strong><font size="4" color="#00FF99">Programming Languages</font></strong></p>
 
 <div align="center">
