@@ -21,6 +21,18 @@
 
 <br/>
 
+<!-- Support & Profile Views -->
+<div align="center">
+  <a href="https://www.buymeacoffee.com/istuhin" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="max-width: 100%; height: auto; margin: 4px;" />
+  </a>
+  <a href="https://github.com/istuhin">
+    <img src="https://komarev.com/ghpvc/?username=istuhin&style=for-the-badge&color=00D4FF&label=Profile+Views" alt="Profile Views" style="max-width: 100%; height: auto; margin: 4px;" />
+  </a>
+</div>
+
+<br/>
+
 ---
 
 ## Connect 
@@ -122,16 +134,6 @@
 ---
 
 <div align="center">
-  <p><strong>Enjoying my projects? Your support fuels innovation!</strong></p>
-  
-  <a href="https://www.buymeacoffee.com/istuhin" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="max-width: 100%; height: auto;" />
-  </a>
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" style="max-width: 100%; height: auto;" />
     
   <p>
@@ -141,7 +143,6 @@
   <div style="margin: 20px 0;">
     <img src="https://img.shields.io/badge/Made_with-Love_and_Coffee-FF6B6B?style=for-the-badge" alt="Made with love" style="max-width: 100%; height: auto;" />
     <img src="https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge" alt="Always Learning" style="max-width: 100%; height: auto;" />
-    <img src="https://komarev.com/ghpvc/?username=istuhin&style=for-the-badge&color=00D4FF&label=Profile+Views" alt="Profile Views" style="max-width: 100%; height: auto;" />
   </div>
   
   <p><sub>© 2026 Touhidur Rahman (dev.isTuhin) - Crafted with passion and precision</sub></p>
