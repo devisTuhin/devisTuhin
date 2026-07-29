@@ -46,13 +46,9 @@
 
 <img src="./divider.svg" width="100%" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=Ecosystem&fontSize=26&fontColor=00FF99&animation=twinkling&fontAlignY=45" alt="Ecosystem" style="max-width: 100%; height: auto;" />
-</div>
+<p align="center"><strong><font size="6">Ecosystem</font></strong></p>
 
-<br/>
-
-<p align="center"><strong><font size="4" color="#00FF99">Programming Languages</font></strong></p>
+<p align="left"><strong><font size="4" color="#00FF99">Programming Languages</font></strong></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -67,7 +63,7 @@
 
 <br/>
 
-<p align="center"><strong><font size="4" color="#00FF99">Frontend Frameworks</font></strong></p>
+<p align="left"><strong><font size="4" color="#00FF99">Frontend Frameworks</font></strong></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -82,7 +78,7 @@
 
 <br/>
 
-<p align="center"><strong><font size="4" color="#00FF99">Backend, DevOps &amp; Databases</font></strong></p>
+<p align="left"><strong><font size="4" color="#00FF99">Backend, DevOps &amp; Databases</font></strong></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -96,7 +92,7 @@
 
 <br/>
 
-<p align="center"><strong><font size="4" color="#00FF99">Automation, IDEs &amp; Tools</font></strong></p>
+<p align="left"><strong><font size="4" color="#00FF99">Automation, IDEs &amp; Tools</font></strong></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
