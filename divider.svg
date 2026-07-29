@@ -1,0 +1,24 @@
+<svg width="100%" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF99" stop-opacity="0" />
+      <stop offset="30%" stop-color="#00FF99" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#00D4FF" stop-opacity="1" />
+      <stop offset="70%" stop-color="#00FF99" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#00FF99" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="bg-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#334155" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#475569" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#334155" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Static Base Line -->
+  <rect x="0" y="2" width="1000" height="2" rx="1" fill="url(#bg-line)" />
+
+  <!-- Animated Glowing Pulse Line -->
+  <rect x="-300" y="1.5" width="300" height="3" rx="1.5" fill="url(#line-glow)">
+    <animate attributeName="x" from="-300" to="1000" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg>

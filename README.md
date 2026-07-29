@@ -29,7 +29,7 @@
 
 <br/>
 
----
+<img src="./divider.svg" width="100%" />
 
 <p align="left"><strong><font size="5">Connect</font></strong></p>
 
@@ -44,7 +44,7 @@
   <a href="https://instagram.com/istuhin21" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
----
+<img src="./divider.svg" width="100%" />
 
 <p align="left"><strong><font size="5">Tech Stack &amp; Ecosystem</font></strong></p>
 
@@ -103,7 +103,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
----
+<img src="./divider.svg" width="100%" />
 
 <p align="left"><strong><font size="5">GitHub Analytics</font></strong></p>
 
@@ -113,7 +113,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=istuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="490" style="max-width: 100%; height: auto;" />
 </div>
 
----
+<img src="./divider.svg" width="100%" />
 
 <p align="left"><strong><font size="5">Certifications</font></strong></p> 
 
@@ -123,7 +123,7 @@
   </a>
 </div>
 
----
+<img src="./divider.svg" width="100%" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" style="max-width: 100%; height: auto;" />
